@@ -1,4 +1,4 @@
-# ExpressJS TypeScript boilerplate
+# AWS Cognito Authenticated React component
 Authenticated React component
 
 ## Description
